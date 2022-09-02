@@ -41,7 +41,7 @@
 
 
 ## Project Status
-Project is: _is complete_
+Project is: _complete_
 
 
 ## Room for Improvement
