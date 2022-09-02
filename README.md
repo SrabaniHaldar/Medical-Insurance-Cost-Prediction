@@ -41,7 +41,7 @@
 
 
 ## Project Status
-Project is: no longer being worked on. I worked on it for a couple of days for the academic level competition. I was limited on time and computing capability of my system to make further improvements to this.
+Project is: _is complete_
 
 
 ## Room for Improvement
